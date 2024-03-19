@@ -1,0 +1,24 @@
+{
+  "name": "dragon_dijia_story",
+  "version": "1.0.0",
+  "description": "谐音梗之迪迦的故事",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gloabPass/dragon_dijia_story.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gloabPass/dragon_dijia_story/issues"
+  },
+  "homepage": "https://github.com/gloabPass/dragon_dijia_story#readme",
+  "dependencies": {
+    "dragon_lucky_words": "^1.0.3",
+    "jquery": "^3.7.1"
+  }
+}
